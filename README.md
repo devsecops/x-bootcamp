@@ -1,5 +1,6 @@
 # DevSecOps X-Bootcamp
-An extreme bootcamp for DevSecOps enthusiasts to enable teams to build security into their environments.  This course is being developed to help practitioners prepare for the changes required to be successful in a DevOps + Security environment.
+
+Building learning materials is rough and everyone has a sense of the things they want to see in Basic, Intermediate and Advanced courses.  DevSecOps Xtreme is an advanced course for DevSecOps enthusiasts looking to lead a DevSecOps Program or participate via an expanded role.  This material isn't considered easy and there are difficult concepts to grasp but the takeaways should enable you to operate above and beyond your peers.  We'll try to cover as much as we can without short-changing you.
 
 ##Curriculum
 
@@ -10,5 +11,9 @@ An extreme bootcamp for DevSecOps enthusiasts to enable teams to build security 
 5.  Into Features
 6.  The Big and Small of Security
 7.  Measuring DevSecOps Success
+
+# Contributing
+
+Want to contribute?  Think we're missing something?  We've never turned anyone away, ie. thinking you might get rejected is not a good excuse.
 
 
