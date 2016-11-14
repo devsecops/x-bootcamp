@@ -14,6 +14,6 @@ Building learning materials is rough and everyone has a sense of the things they
 
 # Contributing
 
-Want to contribute?  Think we're missing something?  We've never turned anyone away, ie. thinking you might get rejected is not a good excuse.
+Want to contribute?  Think we're missing something?  The ultimate benefit and value of these materials is driven by the community for the community.  We've never turned anyone away, ie. thinking you might get rejected is not a good excuse.  We might disagree with your pull request and have conflicting views, so do be prepared to defend your work.  Getting engaged will have positive effects in both directions.  Cheers!     
 
 
