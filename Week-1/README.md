@@ -5,10 +5,20 @@ By now, you are familiar with DevSecOps so let's parachute-in and get started.  
 During this week, we'll work on developing our plans for implementing DevSecOps so that we can unite Top-Down and Bottoms-Up efforts before we get too far down the path.  
 
 ##Success Criteria
+After taking this module, you will be able to successfully plan for DevSecOps changes.  You will be able to elaborate on the mission and present a compelling story of change for your organization.
 
-## Lesson 1
+## [Lesson 1: A Quick Refresher]() 
 
-## Lesson 2
 
-## Lesson 3
+## [Lesson 2: Mapping the Mission]()
+
+
+## [Lesson 3: Measuring Current State]()
+
+
+## [Lesson 4: Developing a Change Plan]()
+
+
+
+## References
 
